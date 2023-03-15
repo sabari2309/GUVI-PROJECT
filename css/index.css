@@ -1,0 +1,17 @@
+body{
+    background-image: url(../assets/download.jfif);
+}
+
+.page{
+    text-align: center;
+}
+
+h1{
+    margin-top: 16rem;
+    font-size: 5rem;
+
+}
+button{
+    margin-top: 18 rem;
+    font-size: 1rem;
+}
